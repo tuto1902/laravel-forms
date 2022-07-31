@@ -3,10 +3,10 @@
 ## Installation
 
 ````
-git clone git@github.com:tuto1902/laravel-forms-start.git
+git clone git@github.com:tuto1902/laravel-forms.git
 ````
 ````
-cd laravel-forms-start
+cd laravel-forms
 ````
 ````
 composer install
